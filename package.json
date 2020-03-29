@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "",
-    "build": "babel src -d lib",
     "server": "node server.js",
     "start": "electron ."
   },
