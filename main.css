@@ -41,6 +41,7 @@ main {
 .input {
   opacity: 0.8;
   display: flex;
+  min-height: 2.5em;
   flex-flow: row nowrap;
   flex: 0 1 auto;
   padding: 1em;
@@ -141,7 +142,7 @@ aside > h3 {
 }
 
 #users > li:hover {
-  background-color: #eee;
+  background-color: rgb(19, 15, 15);
 }
 
 #text-input {
