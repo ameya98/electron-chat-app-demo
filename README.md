@@ -1,7 +1,7 @@
-# Simple Electron Chat App
+# Bootleg WhatsApp Chat
 
-This is just a demo of a basic chat app using Electron and React.
-The server is included and must be run using Node.js
+This is just a demo of a chat app mimicking WhatsApp, built with Electron and React.
+The server is included and must be run using node.js.
 
 ## Tiny features
 
