@@ -14,7 +14,7 @@ The server is included and must be run using node.js.
 
 ## To Use
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this repository you'll need [Git](https://git-scm.com) and [node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -23,12 +23,19 @@ git clone https://github.com/ameya98/electron-chat-app-demo.git
 cd electron-chat-app-demo
 # Install dependencies
 npm install
-# Run local server
-npm run server
+```
+
+Then, to start the client:
+```bash
 # Run the app
 npm start
 ```
 
+If you want to start your own local server:
+```bash
+# Run local server
+npm run server
+```
 If you want to test the app using multiple instances, remember you should only have one instance of the chat server running!
 
 ## Create distributable package
