@@ -18,7 +18,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/demian85/electron-chat-app-demo.git
+git clone https://github.com/ameya98/electron-chat-app-demo.git
 # Go into the repository
 cd electron-chat-app-demo
 # Install dependencies
