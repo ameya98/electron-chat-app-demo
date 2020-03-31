@@ -92,7 +92,7 @@ aside > h3 {
   padding: 0.5%;
   text-align: left;
 }
-/* http://localhost:5000  */
+
 .chat-fake {
   display: flex;
   flex-direction: row;
@@ -102,6 +102,10 @@ aside > h3 {
   padding-right: 1%;
   padding-top: 0.5%;
   padding-bottom: 0.5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 1.5%;
+  margin-right: 1.5%;
   background: #ECE5DD;
   border-radius: 2px;
   box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.03);
@@ -115,7 +119,7 @@ aside > h3 {
 }
 
 .fake-text {
-  min-width: 10em;
+  min-width: 15em;
   display: inline-block;
   padding: 0.1em;
   margin: 0.1em;
@@ -148,8 +152,8 @@ aside > h3 {
   padding-right: 2%;
   padding-top: 1%;
   padding-bottom: 1%;
-  background: #FFFFFF;
-  opacity: 0.5;
+  background: #E1F3FB;
+  opacity: 0.8;
   border-radius: 10px;
   box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.03);
 }
