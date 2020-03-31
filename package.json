@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/demian85/electron-chat-app-demo.git"
+    "url": "git+https://github.com/ameya98/electron-chat-app-demo.git"
   },
   "author": "Demián Rodriguez",
   "license": "ISC",
